@@ -1,0 +1,13 @@
+Database,Kinase_Score,cscore
+KL,1,0.3
+KL,2,0.5
+KL,3,0.6
+KL,4,0.7
+KL,5,0.8
+KL,7,0.9
+PhosphoNET,300,0.3
+PhosphoNET,380,0.6
+PhosphoNET,460,0.7
+PhosphoNET,540,0.8
+PhosphoNET,620,0.9
+iviv,NA,0.9

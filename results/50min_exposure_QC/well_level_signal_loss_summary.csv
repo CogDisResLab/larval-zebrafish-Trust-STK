@@ -1,0 +1,5 @@
+SampleName,Barcode,Group,Replicate,paired_peptides,measurable_at_50,measurable_at_100,peptides_lost,peptides_gained,lower_at_100,drop_at_least_50_percent,percent_lost,plot_label
+5-MeO-DMT_50min_720061313,720061313,5-MeO-DMT_50min,5-MeO-DMT_50min_720061313,120,104,107,0,3,4,3,0,5-MeO-DMT_50min_720061313
+PAL_50min_720061313,720061313,PAL_50min,PAL_50min_720061313,127,87,105,1,19,5,2,1.1494252873563218,PAL_50min_720061313
+Photo-5MeO-DMT_50min_720061313,720061313,Photo-5MeO-DMT_50min,Photo-5MeO-DMT_50min_720061313,120,102,108,0,6,1,0,0,Photo-5MeO-DMT_50min_720061313
+Veh_50min_720061313,720061313,Veh_50min,Veh_50min_720061313,121,111,95,19,3,25,23,17.117117117117118,Veh_50min_720061313
